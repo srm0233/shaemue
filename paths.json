@@ -1,14 +1,14 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/language-masters/placeholders:/language-masters/placeholders.json",
-    "/content/wknd-universal/language-masters/en/placeholders:/language-masters/en/placeholders.json",
-    "/content/wknd-universal/language-masters/en/placeholders:/en/placeholders.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/shaemue/language-masters/en/:/",
+    "/content/shaemue/configuration:/.helix/config.json",
+    "/content/shaemue/metadata:/metadata.json",
+    "/content/shaemue/redirects:/redirects.json",
+    "/content/shaemue/language-masters/placeholders:/language-masters/placeholders.json",
+    "/content/shaemue/language-masters/en/placeholders:/language-masters/en/placeholders.json",
+    "/content/shaemue/language-masters/en/placeholders:/en/placeholders.json",
+    "/content/shaemue/placeholders:/placeholders.json",
+    "/content/shaemue.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
     "/content/shaemue/"
