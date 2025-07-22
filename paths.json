@@ -11,6 +11,6 @@
     "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/"
+    "/content/shaemue/"
   ]
 }
